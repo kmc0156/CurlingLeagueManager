@@ -12,11 +12,11 @@
     
     Unix/macOS    
     python3 -m pip install -r requirements.txt
-    python3 -m pip install -e git+https://git.repo/some_pkg.git#egg=SomeProject 
+    python3 -m pip install -e git+https://github.com/kmc0156/CurlingLeagueManager.git
 
     Windows    
     python3 -m pip install -r requirements.txt
-    py -m pip install -e git+https://git.repo/some_pkg.git#egg=SomeProject
+    py -m pip install -e git+https://github.com/kmc0156/CurlingLeagueManager.git
 
     after installation: 
     league-manager-client
