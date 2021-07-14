@@ -9,14 +9,15 @@
 [Requirements.txt](https://github.com/kmc0156/CurlingLeagueManager/blob/master/requirements.txt)
 ## Installation:
     download and install requirements.txt
+    download zip from GitHub repository
     
     Unix/macOS    
     python3 -m pip install -r requirements.txt
-    python3 -m pip install -e git+https://github.com/kmc0156/CurlingLeagueManager.git
+    python3 -m pip install CurlingLeagueManager-master.tar.gz
 
     Windows    
     python3 -m pip install -r requirements.txt
-    py -m pip install -e git+https://github.com/kmc0156/CurlingLeagueManager.git
+    py -m pip install CurlingLeagueManager-master.zip
 
     after installation: 
     league-manager-client
